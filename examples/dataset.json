@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Parse an AWS CloudFormation template and extract all resource logical IDs",
+    "format": "python"
+  },
+  {
+    "task": "Validate and format an AWS IAM policy JSON document",
+    "format": "json"
+  },
+  {
+    "task": "Extract AWS S3 bucket names from CloudTrail logs using pattern matching",
+    "format": "regex"
+  }
+]
